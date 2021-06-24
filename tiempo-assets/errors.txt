@@ -1,0 +1,1 @@
+[2021-5-7 13:32:52] layer "tiempo.png": Duplicate path: tiempo.png
